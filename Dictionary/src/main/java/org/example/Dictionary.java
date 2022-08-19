@@ -7,7 +7,11 @@ public class Dictionary {
 
     private DictionaryService dictService;
 
-    public void setDictionaryService(DictionaryService dictService){
+    /**
+     * Constructor for the Dictionary service
+     * @param dictService to get the dictionary list
+     */
+    public Dictionary(DictionaryService dictService) {
         this.dictService = dictService;
     }
 
@@ -60,7 +64,6 @@ public class Dictionary {
                 matches.add(word);
             }
         }
-        System.out.println(matches);
         return matches;
     }
 }
