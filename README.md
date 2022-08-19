@@ -37,3 +37,8 @@ The main Test Strategy has the following steps:
 
 ## Tester details
 * Name: `Douglas Urrea Ocampo`
+
+## Changelog
+16-08-2022: Initial version
+19-08-2022: Added the properties version on the POM file.
+19-08-2022: .gitignore file has been created.

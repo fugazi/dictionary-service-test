@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+!**/Dictionary/.idea
+!**/Dictionary/Dictionary.iml
+!**/Dictionary/target
+
+## Ignore files and folders
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
