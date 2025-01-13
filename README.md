@@ -38,10 +38,10 @@ The main Test Strategy has the following steps:
 * Name: `Douglas Urrea Ocampo`
 
 ## Changelog
-16-08-2022: Initial version
-19-08-2022: Added the properties version on the POM file.
-19-08-2022: .gitignore file has been created.
-19-08-2022: Implements a DictionaryServiceImp class for load the Dictionary file and get the dictionary list.
-19-08-2022: Mockito library has been deleted.
-19-08-2022: The isEnglishWord function has been implemented with a Stream method may execute either sequentially or in parallel.
-19-08-2022: The DictionaryTest class has been cleared with only the test methods.
+* 16-08-2022: Initial version
+* 19-08-2022: Added the properties version on the POM file.
+* 19-08-2022: .gitignore file has been created.
+* 19-08-2022: Implements a DictionaryServiceImp class for load the Dictionary file and get the dictionary list.
+* 19-08-2022: Mockito library has been deleted.
+* 19-08-2022: The isEnglishWord function has been implemented with a Stream method may execute either sequentially or in parallel.
+* 19-08-2022: The DictionaryTest class has been cleared with only the test methods.
